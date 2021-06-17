@@ -1,4 +1,4 @@
-# Compression-of-Trees-Space-Optimization-using-intersection-of-lists
+# Compression of Trees and it's Space Optimization using intersection of lists
 Compression of Trees & it’s Space Optimization using intersection of lists
 
 Copyright@ Daipayan Bhowal

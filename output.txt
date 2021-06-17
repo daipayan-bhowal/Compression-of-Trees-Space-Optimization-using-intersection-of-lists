@@ -1,0 +1,15 @@
+pointer is:0x91c2098 0x91c20a8 0x91c20c8 count:3
+linkedlist traversal!
+5
+10
+20
+
+linkedlist traversal!
+15
+10
+20
+
+linkedlist traversal!
+30
+25
+20

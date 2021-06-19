@@ -16,3 +16,5 @@ Made in India
 ![Alt text](https://github.com/daipayan-bhowal/CompressionOfTreesandit-sSpaceOptimizationUsingIntersectionOfLists/blob/main/img/P4.jpg?raw=true)
 
 ![Alt text](https://github.com/daipayan-bhowal/CompressionOfTreesandit-sSpaceOptimizationUsingIntersectionOfLists/blob/main/img/P5.jpg?raw=true)
+
+![Alt text](https://github.com/daipayan-bhowal/CompressionOfTreesandit-sSpaceOptimizationUsingIntersectionOfLists/blob/main/img/P6.jpg?raw=true)

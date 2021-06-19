@@ -7,5 +7,4 @@ Date – 1/06/2021
 
 Made in India
 
-![Alt text](https://github.com/daipayan-bhowal/CompressionOfTreesandit-sSpaceOptimizationUsingIntersectionOfLists/img/P1.jpg?raw=true)
-
+![Alt text](https://github.com/daipayan-bhowal/CompressionOfTreesandit-sSpaceOptimizationUsingIntersectionOfLists/blob/main/img/P1.jpg?raw=true)
